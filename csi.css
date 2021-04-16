@@ -1,0 +1,70 @@
+body{
+    background-color: white;
+    margin: 10px;
+    background-color: rgb(52, 21, 80);
+    color: white;
+    
+    
+}
+
+h1, h3{
+    text-align: center;
+}
+.table{
+     width: 65%;
+     margin: auto ;
+     
+}
+thead{
+    text-align: center;
+    color: white;
+    
+}
+tbody{
+    background-color: black;
+    width: 90%;
+    height: 300px;
+    text-align: center;
+   
+}
+#fotos{
+    
+    width: 50%;
+}
+#fotos img{
+    
+    align-items: center;
+    justify-content: center;
+    padding-top: 30px;
+}
+
+
+#lista {
+    
+    
+    width: 50%;
+    height: 300px;
+    color: white;
+    text-align: center;
+     
+    
+}
+
+#buscar{
+    
+    width: 95%;
+    margin: auto ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+input{
+    width: 32%;
+}
+button{
+   position: absolute;
+   left: 50%;
+  
+}
